@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MfenaKaase
 - 👀 I’m interested in web app development, art 
-- 🌱 I’m currently learning @Angular
+- 🌱 I’m currently learning @Laravel
 - 💞️ I’m looking to collaborate on some cool stuff
 - 📫 mfenakaase16@gmail.com
 
